@@ -77,6 +77,7 @@ RUN echo "Using chinese apt mirror, because otherwise I cannot build this image 
           ttf-wqy-zenhei \
           xfonts-intl-chinese \
           xfonts-intl-chinese-big \
+          xfonts-intl-japanese \
           xfonts-wqy &&\
 # now the microsoft core fonts
     echo "Installing microsoft core fonts." &&\
